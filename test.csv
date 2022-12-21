@@ -1,0 +1,6 @@
+ThreadNum,Total Execution Time(ms),Throughput(kop/s),QueryTicket Average Time(ns),BuyTicket Average Time(ns),RefundTicket Average Time(ns)
+4,109,366,14313,5035,311
+8,131,610,20184,1688,126
+16,218,733,33730,2733,79
+32,400,800,58614,3922,124
+64,795,805,113960,3556,64
